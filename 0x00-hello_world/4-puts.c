@@ -1,6 +1,7 @@
-#Include < stdio.h >
+#include < stdio.h >
 /**
- * main - A program that use a function puts
+ * main - a program that use a function puts
+ *
  * Return: 0
  */
 

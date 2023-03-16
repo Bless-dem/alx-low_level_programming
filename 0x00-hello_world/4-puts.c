@@ -1,4 +1,5 @@
-#include < stdio.h >
+#include <stdio.h>
+
 /**
  * main - a program that use a function puts
  *
